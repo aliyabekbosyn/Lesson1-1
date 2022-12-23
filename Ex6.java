@@ -5,7 +5,7 @@ class Ex6{
 		if (marks<50) {
 			System.out.println("fail");
 		}
-		else if (marks>=50 && marks < 60){
+		else if (marks>=49&& marks < 60){
 			System.out.println("D grade");
 		}
 		else if (marks>=60 && marks<70) {
